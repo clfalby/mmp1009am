@@ -1,0 +1,11 @@
+body{background-color: #CAFEBE;}
+h1{color: #961EF4;font-family: "Helvetica"; font-size: 42px; text-align: center;}
+p{color: #1EB6F4;font-family: "Garamond"; font-size: 12px; text-align: center;}
+img{border-width: 3px;border-color: #DFA6FC;border-style: double;}
+a{color: #CF7BF9;font-family: "Garamond"; font-size: 12px; text-decoration: none;}
+a:hover{color: #F98E7B}
+ul{list-style-type: none;}
+img {
+  margin: auto;
+  display: block;
+}
